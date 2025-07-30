@@ -1,0 +1,1 @@
+# Script: gera relatorio simples de gastos (CSV)

@@ -1,0 +1,1 @@
+# Script: organiza arquivos por tipos
