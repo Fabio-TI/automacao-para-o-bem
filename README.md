@@ -39,11 +39,17 @@ Pai, marido, engenheiro e servo.
 
 ---
 
+## 📩 Quer contribuir?
+Deixe seu feedback: [https://tally.so/r/3jVPd6](https://tally.so/r/3jVPd6)
+
+---
+
 ## 📖 Reflexões Relacionadas
 
 Leia no blog **Diário de um Engenheiro Cristão**:
 
-- [Excelência Técnica é uma Forma de Adoração](https://fabio-ti.github.io/diario)
-- [O script que me deu 2 horas com minha filha](https://fabio-ti.github.io/diario) *(próximo post)*
+- [Excelência Técnica é uma Forma de Adoração](https://fabio-ti.github.io/excelencia-e-adoracao/)
+- [O script que me deu 2 horas com minha filha](https://fabio-ti.github.io/script-tempo-familia/)
+- [O que me motivou pedir o feedback dos meus amigos](https://fabio-ti.github.io/feedback-servico/) *(post atualizado com sucesso)*
 
 > "Tudo o que fizerem, façam de todo o coração, como para o Senhor." — Colossenses 3:23
